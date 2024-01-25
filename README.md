@@ -1,7 +1,7 @@
 # OOP-JAVA
 This is my work till date on the concept of OOP .
 <br>
-These all are my lab assignments for the subject of OOP.
+These all are my university lab assignments for the subject of OOP.
 <br>
 I have used the java language.
 <br>
