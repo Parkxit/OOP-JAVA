@@ -5,7 +5,7 @@ These all are my university lab assignments for the subject of OOP.
 <br>
 I have used the java language.
 <br>
-The datails about each of the program that I have done are mentioned below:
+The brief discription and the problem statement about each of the program that I have done are mentioned below:
 <br>
 1)The "Bag" assignment:
 <br>
