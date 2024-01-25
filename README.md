@@ -29,33 +29,13 @@ Define two classes to store distance. One of the classes should store distance i
 <br>
 <br>
 <br>
-4)The "Runtime Polymorphism" assignment:
-<br>
-Design a base class 'Shape' with double type value and methods compute_area() for calculating the area of shape. Derive three classes: triangle, rectangle, and circle. Make compute_area() as an abstract method and redefine this method in the derived class to suit their requirements. Write a program that accepts dimensions of triangle/rectangle/circle and displays the calculated area. Implement dynamic binding for a given case study.
-<br>
-<br>
-<br>
-5)The "Exception Handling - Exhandling" asssignment
+4)The "Exception Handling - Exhandling" asssignment
 <br>
 Implement a program to handle Arithmetic Exception, and Input Mismatch Exception. The user enters two numbers Num1 and Num2. The division of Num1 and Num2 is displayed. If Num1 and Num2 are not integers, the program would throw an Input Mismatch Exception. If Num2 were zero, the program would throw an Arithmetic Exception. Display the exception.
 <br>
 <br>
 <br>
-6)The "Matrix" assignment:
-<br>
-Design a class ‘Matrix ‘with appropriate instance variables and methods. Provide default and Parameterized constructors. Write a program to perform addition, subtraction, and Multiplication of two matrices. Find the transpose of an given matrix.
-<br>
-<br>
-<br>
-7)The "Inheritance" assignment:
-<br>
-Design the 'employee' class with a name, id, DOB,  mail_id, and mobile_no as instance variables. Inherit the classes: Programmer, Team Lead, Assistant Project Manager, and Project Manager from the employee class. Add Basic Pay (BP) as the member of all the
-inherited classes with 97% of BP as DA, 10 % of BP as HRA, 12% of BP as PF, and 0.1% of BP for staff
-club fund. Generate pay slips for the employees with their gross and net salary.
-<br>
-<br>
-<br>
-8)The "Factory Design Pattern" assignment:
+5)The "Factory Design Pattern" assignment:
 <br>
 Implement a Factory design pattern for the given context. Consider the Car building process, which
 requires many steps from allocating accessories to final makeup. These steps should be written as
@@ -64,35 +44,15 @@ Pattern should be implemented.
 <br>
 <br>
 <br>
-9)The "Strategy Design Pattern" assignment:
+6)The "Inheritance" assignment:
 <br>
-Implement and apply a Strategy Design pattern for a simple Shopping Cart where three payment
-strategies are used Credit Card, PayPal, and Bit Coin. Create an interface for strategy patterns and give concrete implementation for payment.
-<br>
-<br>
-<br>
-10)The "Generic Programming" assignment:
-<br>
-Implement a generic program using collection class (ArrayList) to count the number of elements in a collection that have a specific property such as even numbers, odd number, prime number and palindromes.
+Design the 'employee' class with a name, id, DOB,  mail_id, and mobile_no as instance variables. Inherit the classes: Programmer, Team Lead, Assistant Project Manager, and Project Manager from the employee class. Add Basic Pay (BP) as the member of all the
+inherited classes with 97% of BP as DA, 10 % of BP as HRA, 12% of BP as PF, and 0.1% of BP for staff
+club fund. Generate pay slips for the employees with their gross and net salary.
 <br>
 <br>
 <br>
-11)The "File Handling" assignment:
-<br>
-Implement a program for maintaining a database of student records using Files.
-Student has Student_id, name, Roll_no, Class, marks, and address. Display the data for a few
-students.
-
-
-1. Create Database 
-2. Display Database 
-3. Delete Records 
-4. Update Record 
-5. Search Record
-<br>
-<br>
-<br>
-12)The "Interface" assignment:
+7)The "Interface" assignment:
 <br>
 Design and develop a context for a given case study and implement an interface for Vehicles
 Consider the example of vehicles like bicycles, cars, and bikes. All Vehicles have common
@@ -102,3 +62,44 @@ functionalities in their class in their way.
 <br>
 <br>
 <br>
+8)The "Matrix" assignment:
+<br>
+Design a class ‘Matrix ‘with appropriate instance variables and methods. Provide default and Parameterized constructors. Write a program to perform addition, subtraction, and Multiplication of two matrices. Find the transpose of an given matrix.
+<br>
+<br>
+<br>
+9)The "Runtime Polymorphism" assignment:
+<br>
+Design a base class 'Shape' with double type value and methods compute_area() for calculating the area of shape. Derive three classes: triangle, rectangle, and circle. Make compute_area() as an abstract method and redefine this method in the derived class to suit their requirements. Write a program that accepts dimensions of triangle/rectangle/circle and displays the calculated area. Implement dynamic binding for a given case study.
+<br>
+<br>
+<br>
+10)The "File Handling" assignment:
+<br>
+Implement a program for maintaining a database of student records using Files.
+Student has Student_id, name, Roll_no, Class, marks, and address. Display the data for a few
+students.
+1. Create Database 
+2. Display Database 
+3. Delete Records 
+4. Update Record 
+5. Search Record
+<br>
+<br>
+<br>
+11)The "Generic Programming" assignment:
+<br>
+Implement a generic program using collection class (ArrayList) to count the number of elements in a collection that have a specific property such as even numbers, odd number, prime number and palindromes.
+<br>
+<br>
+<br>
+12)The "Strategy Design Pattern" assignment:
+<br>
+Implement and apply a Strategy Design pattern for a simple Shopping Cart where three payment
+strategies are used Credit Card, PayPal, and Bit Coin. Create an interface for strategy patterns and give concrete implementation for payment.
+<br>
+<br>
+<br>
+
+
+
