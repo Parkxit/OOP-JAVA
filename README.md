@@ -13,7 +13,7 @@ The brief discription and the problem statement about each of the program that I
 <br>
 3)The "Distance" assignment:
 <br>
-4)The "Polymorphism" assignment:
+4)The "Runtime Polymorphism" assignment:
 <br>
 5)The "Exception Handling - Exhandling" asssignment
 <br>
@@ -29,6 +29,6 @@ The brief discription and the problem statement about each of the program that I
 <br>
 11)The "File Handling" assignment:
 <br>
-12)The "Runtime Polymorphism" assignment:
+12)The "Interface" assignment:
 <br>
 <br>
