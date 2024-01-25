@@ -1,7 +1,34 @@
 # OOP-JAVA
-This is my work till date on the concept of OOP 
+This is my work till date on the concept of OOP .
 <br>
-i have used the java language..
+These all are my lab assignments for the subject of OOP.
 <br>
-the datails about each of the program that i have done ar mentioned below:
+I have used the java language.
+<br>
+The datails about each of the program that I have done are mentioned below:
+<br>
+1)The "Bag" assignment:
+<br>
+2)The "Complex" assignment:
+<br>
+3)The "Distance" assignment:
+<br>
+4)The "Polymorphism" assignment:
+<br>
+5)The "Exception Handling - Exhandling" asssignment
+<br>
+6)The "Matrix" assignment:
+<br>
+7)The "Inheritance" assignment:
+<br>
+8)The "Factory Design Pattern" assignment:
+<br>
+9)The "Strategy Design Pattern" assignment:
+<br>
+10)The "Generic Programming" assignment:
+<br>
+11)The "File Handling" assignment:
+<br>
+12)The "Runtime Polymorphism" assignment:
+<br>
 <br>
